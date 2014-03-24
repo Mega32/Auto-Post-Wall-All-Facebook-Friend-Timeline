@@ -1,1 +1,0 @@
-javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.github.com/ibrahim/fbtools/master/AutoPostTimeline.js';})();
